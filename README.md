@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Pythonista-Ishan.
-- 👀 I’m interested in Web Designing and Programming.
-- 🌱 I’m currently learning Python And Web Designing.
+- 🌱 I’m currently learning DSA And DBA.
 - 📫 How to reach me:
-Here is my instagram: https://www.instagram.com/_al.pha__/ 
+Here is my instagram: https://www.instagram.com/_alpha.py_/
 
 <!---
 Pythonista-Ishan/Pythonista-Ishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
